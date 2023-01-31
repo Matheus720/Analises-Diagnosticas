@@ -27,7 +27,8 @@ Fintech e Internet são predominantes, mas as empresas de comércio eletrônico,
 
 Nos EUA - São Francisco e Nova York, na China - Pequim e Xangai, na Índia Bengaluru e no Reino Unido Londres são as cidades base para essas startups de sucesso
 
-Principais países com indústrias dominantes em startups unicórnios
-EUA - Serviços de Internet e Fintech
-Índia - Fintech, comércio eletrônico e serviços de Internet
-China - E-commerce, Auto e Transporte e Hardware
+### Principais países com indústrias dominantes em startups unicórnios
+
+- EUA - Serviços de Internet e Fintech
+- Índia - Fintech, comércio eletrônico e serviços de Internet
+- China - E-commerce, Auto e Transporte e Hardware
